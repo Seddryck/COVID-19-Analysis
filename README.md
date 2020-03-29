@@ -12,4 +12,4 @@ A version of this dashboard is available [online](https://app.powerbi.com/view?r
 
 [![twitter badge](https://img.shields.io/badge/twitter-@Seddryck-blue.svg?style=flat&logo=twitter)](https://twitter.com/Seddryck)
 ![Still maintained](https://img.shields.io/maintenance/yes/2020.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Seddryck/covid-19-analysis.svg)]
+![GitHub last commit](https://img.shields.io/github/last-commit/Seddryck/covid-19-analysis.svg)
